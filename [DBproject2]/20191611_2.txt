@@ -1,0 +1,19 @@
+delete from customer;
+delete from shipping;
+delete from ship_pack_info;
+delete from transportation;
+delete from staff;
+delete from bill;
+delete from package;
+delete from warehouse;
+delete from product;
+
+drop table customer;
+drop table shipping;
+drop table ship_pack_info;
+drop table transportaion;
+drop table staff;
+drop table bill;
+drop table package;
+drop table warehouse;
+drop table product;
